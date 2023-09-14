@@ -1,0 +1,28 @@
+/* Add this CSS to your AboutUsPage.css or a separate CSS file */
+
+/* Container for the "About Us" content */
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Heading style */
+  .about-us-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph style */
+  .about-us-container p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  /* Customize these styles further to match your website's design and branding. */
+  
