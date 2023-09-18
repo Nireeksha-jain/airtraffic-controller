@@ -1,7 +1,7 @@
-// LandingPage.js
+
 import { useState } from 'react';
 import React from 'react';
-import './LandingPage.css'; // Import the CSS file
+import './LandingPage.css';
 
 const tableData = [
   {

@@ -41,5 +41,5 @@ table {
   }
 
   .search-bar input[type="text"]:focus {
-    border-color: #000000; /* Change border color on focus */
+    border-color: #000000;
   }
